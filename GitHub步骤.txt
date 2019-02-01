@@ -1,0 +1,19 @@
+1.先进入当前目录
+      cd 盘符：\n
+      cd 文件夹名称
+      cd 当前目录
+2.提交到缓存
+      git add 文件名.后缀
+3.描述内容
+       git commit -m "描述内容"
+4.提交到远程库
+       git rush origin master(第一次提交时需要输入origin master，以后只需输入git rush)
+
+========
+登录GetHub
+1点击右上角+，新建一个库
+2复制远程库地址
+3.打开Git进入当前目录 
+    git clone 
+    库地址 \n
+同上（1 2 3 4）
