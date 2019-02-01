@@ -7,7 +7,7 @@
 3.描述内容
        git commit -m "描述内容"
 4.提交到远程库
-       git rush origin master(第一次提交时需要输入origin master，以后只需输入git rush)
+       git push origin master(第一次提交时需要输入origin master，以后只需输入git push)
 
 ========
 登录GetHub
